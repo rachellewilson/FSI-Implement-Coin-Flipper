@@ -17,6 +17,8 @@ main {
 }
 
 h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
     margin: 0;
     padding: 25px;
 }
